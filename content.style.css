@@ -269,3 +269,12 @@
         border-radius: 10px;
         overflow: hidden;
     }
+
+    .button-nextpage {
+        padding: 10px;
+        font-size: 40px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        font-family: 'Khaitun';
+    }
