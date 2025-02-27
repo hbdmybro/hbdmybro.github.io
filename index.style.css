@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url(./font/Rubik_Vinyl/RubikVinyl-Regular.ttf);
+}
+body, html {
+    background-color: pink;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    display: flex;
+}
+
+.button {
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    font-family: 'Rubik';
+    cursor: pointer;
+}
