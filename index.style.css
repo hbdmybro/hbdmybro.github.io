@@ -2,6 +2,11 @@
     font-family: 'Rubik';
     src: url(./font/Rubik_Vinyl/RubikVinyl-Regular.ttf);
 }
+
+@font {
+    font-family:'TCS';
+    src: url(./font/TCS-Number08/TCS\ Number08\ Demo.ttf);
+}
 body, html {
     background-color: pink;
     text-align: center;
@@ -19,4 +24,8 @@ body, html {
     margin: 5px 2px;
     font-family: 'Rubik';
     cursor: pointer;
+}
+
+.text {
+    font-family: 'TCS'
 }
